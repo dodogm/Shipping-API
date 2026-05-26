@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    
+    "types": ["node", "jest"],
     "target": "es2022",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
     "lib": ["ES2023"],
 
