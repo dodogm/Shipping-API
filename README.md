@@ -17,6 +17,8 @@ O objetivo é praticar conceitos de APIs REST, manipulação de dados e integra�
 - Bcrypt
 - Jsonwebtoken
 - Zod
+- TypeScript
+- Docker
 
 ---
 
